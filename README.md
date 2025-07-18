@@ -1,5 +1,4 @@
 # Streaming-Analytics-Netflix-Dataset-Dashboard-with-Power-BI
-![Image](https://github.com/user-attachments/assets/abebc46b-c337-4f68-9375-421ee525a9b0)
 
 📊 Project Title: Netflix Content Insights Dashboard | Power BI
 📝 Project Overview:
@@ -56,9 +55,4 @@ Delivered a visually intuitive dashboard that allows users to drill down into sp
 Embedded or linked live Power BI dashboard (via Power BI Service)
 GitHub repo with raw dataset and .pbix file
 PDF snapshots of visual insights with brief annotations
-
-
-Streaming Analytics: Netflix Dataset Dashboard with Power BI
-
-
-
+![Image](https://github.com/user-attachments/assets/abebc46b-c337-4f68-9375-421ee525a9b0)
