@@ -1,4 +1,4 @@
-# Streaming-Analytics-Netflix-Dataset-Dashboard-with-Power-BI
+# Streaming Analytics Netflix Dataset Dashboard with Power-BI
 
 📊 Project Title: Netflix Content Insights Dashboard | Power BI
 📝 Project Overview:
